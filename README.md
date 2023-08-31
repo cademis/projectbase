@@ -6,5 +6,6 @@ This is a GTD project management tool built using the following tools
 - Prisma (ORM)
 - Planetscale (MySQL db hosting)
 - Vercel (hosting)
+- Namecheap (pbase.app)
 
 ## Todo
