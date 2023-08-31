@@ -7,5 +7,3 @@ This is a GTD project management tool built using the following tools
 - Vercel (hosting)
 
 ## Todo
-
-- upload to github
