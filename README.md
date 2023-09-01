@@ -10,7 +10,8 @@ This is a GTD project management tool built using the following tools
 - Namecheap (pbase.app)
 - tRPC
 - Zod
-- React Query
+- tanstack react Query
 - chadcn (Ui and table filtering)
+- tanstack react table
 
 ## Todo
