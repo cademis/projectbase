@@ -8,5 +8,8 @@ This is a GTD project management tool built using the following tools
   - make sure the above has replication
 - Vercel (hosting)
 - Namecheap (pbase.app)
+- tRPC
+- Zod
+- React Query
 
 ## Todo
