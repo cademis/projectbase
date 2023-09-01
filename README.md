@@ -11,5 +11,6 @@ This is a GTD project management tool built using the following tools
 - tRPC
 - Zod
 - React Query
+- chadcn (Ui and table filtering)
 
 ## Todo
