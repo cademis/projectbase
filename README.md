@@ -4,7 +4,8 @@ This is a GTD project management tool built using the following tools
 - Typescript
 - Clerk (auth)
 - Prisma (ORM)
-- Planetscale (MySQL db hosting)
+- Supabase OR posgresql + docker (optional:planetscale)
+  - make sure the above has replication
 - Vercel (hosting)
 - Namecheap (pbase.app)
 
