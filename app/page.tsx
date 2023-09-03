@@ -1,9 +1,12 @@
 import { ComboboxContract } from "@/components/combobox";
+import { ScrollArea } from "@/components/ui/scroll-area";
 
 export default function Home() {
   return (
     <main>
-      <ComboboxContract />
+      <ScrollArea>
+        <ComboboxContract />
+      </ScrollArea>
     </main>
   );
 }

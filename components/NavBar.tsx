@@ -1,13 +1,21 @@
 import { ModeToggle } from "@/components/mode-toggle";
+import Link from "next/link";
 
 export default function NavBar() {
   return (
-    <nav className="flex">
-      <span className="flex-1">Logo</span>
-      <span className="flex-1">Home</span>
-      <span className="flex-1">
+    <nav className="flex items-center w-full justify-between h-16">
+      <div className="flex gap-4">
+        <Link href={"/"} className="flex items-center ml-4">
+          Home
+        </Link>
+        <Link href={"/"} className="flex items-center">
+          Page
+        </Link>
+      </div>
+      <div className="flex gap-4">
+        <span className="flex items-center">Login</span>
         <ModeToggle />
-      </span>
+      </div>
     </nav>
   );
 }
